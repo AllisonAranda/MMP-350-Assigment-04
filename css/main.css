@@ -1,0 +1,45 @@
+h1 {
+    color: black;
+}
+body {
+    background: white;
+    height:100%;
+}
+
+
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-color:#DA853F;
+    
+}
+
+#posts {
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+.post {
+    background-color: deepskyblue;
+    padding-left:50px;
+    padding-right: 50px;
+    margin-bottom:10px;
+    border-radius: 14px;
+}
+
+#write-post {
+    padding-bottom: 50px;
+}
+
+#post-body{
+    width: 100%;
+}
+
+#submit-post {
+    background-color: whitesmoke;
+}
