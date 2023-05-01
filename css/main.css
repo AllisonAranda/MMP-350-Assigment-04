@@ -13,7 +13,7 @@ body {
     padding-top: 90px;
     padding-left: 170px;
     padding-right: 170px;
-    background-color:#DA853F;   
+    background-color:#9933ff;   
 }
 
 #posts {
@@ -24,7 +24,7 @@ body {
 }
 
 .post {
-    background-color:#DA853F;
+    background-color:#ff5050;
     padding-left:50px;
     padding-right: 50px;
     margin-bottom:10px;
